@@ -128,7 +128,7 @@ header nav .form i{
 }
 .landing{
   min-height: 100vh;
-  background-image: url(/images-7.jpg);
+  background-image: url(images-7.jpg);
   background-size: cover;
   position: relative;
 }
@@ -289,7 +289,7 @@ header nav .form i{
  padding-bottom: var(--section-padding);
  height: 600px;
  position: relative;
- background-image: url("/IMG_20230223_000354.jpg");
+ background-image: url("IMG_20230223_000354.jpg");
  background-size: cover;
  display: flex ;
  align-items: center;
@@ -477,7 +477,7 @@ header nav .form i{
  padding-top: var(--section-padding);
  padding-bottom: var(--section-padding);
  text-align: center;
- background-image: url("/IMG_20230223_000354.jpg");
+ background-image: url("IMG_20230223_000354.jpg");
  background-size: cover;
  position: relative;
 }
@@ -649,7 +649,7 @@ background-color: var(--transparent-color);
 .quote{
  padding-top: var(--section-padding);
  padding-bottom:var(--section-padding);
- background-image: url("/quote1.jpg");
+ background-image: url("quote1.jpg");
  background-size: cover;
  position: relative;
  text-align: center;
@@ -765,7 +765,7 @@ background-color: var(--transparent-color);
 .sub{
   padding-top: var(--section-padding);
  padding-bottom: var(--section-padding);
- background-image: url("/Screenshot_20210809-015617.jpg");
+ background-image: url("Screenshot_20210809-015617.jpg");
  background-size: cover;
  position: relative;
  color: white;
