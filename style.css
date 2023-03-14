@@ -270,7 +270,7 @@ header nav .form i{
   margin-bottom: 30px;
   color: var(--main-color);
 }
-@media (max-width 767px){
+@media (max-width: 767px ){
   .services .srv-box{
     display: flex;
     margin-top: 30px;
@@ -699,7 +699,6 @@ background-color: var(--transparent-color);
   font-weight: normal;
   margin-bottom: 20px;
   text-transform: uppercase;
-  
 }
 .pricing .plans .plan .head span{
   font-size: 50px;
@@ -714,7 +713,7 @@ background-color: var(--transparent-color);
   font-weight: normal;
 }
 .pricing .plans .plan .head span::after{
-  content: "/mo";
+  content: "/ho";
   font-size: 20px;
   position: relative;
   right: -15px;
@@ -724,7 +723,6 @@ background-color: var(--transparent-color);
 }
 .pricing .plans .plan ul li{
   padding: 20px;
-  
 }
 .pricing .plans .plan ul li:not(:last-child){
   position: relative;
